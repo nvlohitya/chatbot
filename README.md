@@ -1,1 +1,1 @@
-# This is for chatting amongst your friends
+### This web app helps in chatting amongst your friends
